@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "intw-bsi-2026-2"
+assignment: "ex-b3-02-lista-busca"
+owner:
+  username: "robertocs-hub"
+  id: 317112514
+  accepted_at: "2026-11-11T13:38:25Z"
+source:
+  owner: "engsoft-ifal"
+  owner_id: 100852696
+  repo: "pweb1-ex-b3-02-lista-busca"
+  branch: "main"
